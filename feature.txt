@@ -1,0 +1,1 @@
+ive learned how to create a new branch using git in the command line, how to create a repository on GitHub, how to commit my files and how git is used in this lab
